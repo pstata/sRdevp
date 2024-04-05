@@ -3,15 +3,15 @@ Type: Package
 Title: Just for learning
 Version: 0.1.0
 Authors@R:
-    c(person(given = "John",
-           family = "Smith", 
+    c(person(given = "Phanikumar",
+           family = "tata", 
            role = c("aut", "cre"),
-           email="john_smith@gmail.com",
+           email="tataphani@gmail.com",
            comment = c(ORCID = "0000-0001-1234-5678")),
-      person(given = "Elizabeth",
-           family = "Miller", 
+      person(given = "Phani",
+           family = "tata", 
            role = c("ctb"),
-           email="emiller@gmail.com",
+           email="test@gmail.com",
            comment = c(ORCID = "0000-0001-0314-1592"))
            )
 Maintainer: The package maintainer <yourself@somewhere.net>
