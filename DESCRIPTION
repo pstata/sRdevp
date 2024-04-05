@@ -1,6 +1,6 @@
 Package: sRdevp
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Just for learning
 Version: 0.1.0
 Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/pstata/sRdevp
 BugReports: https://github.com/pstata/sRdevp/issues
+RoxygenNote: 7.3.1
