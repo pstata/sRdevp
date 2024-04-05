@@ -2,7 +2,18 @@ Package: sRdevp
 Type: Package
 Title: Just for learning
 Version: 0.1.0
-Author: Who wrote it
+Authors@R:
+    c(person(given = "John",
+           family = "Smith", 
+           role = c("aut", "cre"),
+           email="john_smith@gmail.com",
+           comment = c(ORCID = "0000-0001-1234-5678")),
+      person(given = "Elizabeth",
+           family = "Miller", 
+           role = c("ctb"),
+           email="emiller@gmail.com",
+           comment = c(ORCID = "0000-0001-0314-1592"))
+           )
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
@@ -12,3 +23,6 @@ LazyData: true
 URL: https://github.com/pstata/sRdevp
 BugReports: https://github.com/pstata/sRdevp/issues
 RoxygenNote: 7.3.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
